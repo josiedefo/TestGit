@@ -20,5 +20,10 @@ public class DocatoRepositoryImplFriend {
     return resource.getWorkSpaceRepresentation(null);
   }
   
+public static void getLibraryChild() {
+    //doNothing
+  }
+  
+
   
 }
